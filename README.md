@@ -161,11 +161,14 @@ When the logit regression also includes another variable, like 'total number of 
 
 1. Data from: \
 https://sda-artsci-utoronto-ca.myaccess.library.utoronto.ca/sdaweb/html/gss.htm, "Canadian general social surveys (GSS)".\
-2. Materials for making plots nicer: \
+2. A tidy format of raw dataframe from: \
+https://q.utoronto.ca/courses/184060/files/9422740/download?download_frd=1, "gss_cleaning.R", Rohan Alexander and Sam Caetano.\
+3. Materials for making plots nicer: \
 https://wilkelab.org/cowplot/articles/plot_grid.html, "Arranging plots in a grid", Claus O. Wilke.\
 http://www.sthda.com/english/wiki/ggplot2-colors-how-to-change-colors-automatically-and-manually, "ggplot2 colors : How to change colors automatically and manually?".\
-3. Material helps analysis:\
+4. Material helps analysis:\
 https://sda-artsci-utoronto-ca.myaccess.library.utoronto.ca/sdaweb/dli2/gss/gss31/gss31/more_doc/GSS31_User_Guide.pdf, "User's Guide (Format pdf)".\
 Slides, "Logistic Regression Intro", Samantha-Jo Caetano.\
-4. R packages:\
+5. R packages:\
 tidyverse, cowplot.\
+
